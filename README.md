@@ -18,6 +18,7 @@ docker-compose up -d --build
 ```
 
 **Laravel環境構築**
+
 3. `docker-compose exec php bash`
 
 4. `composer install`
