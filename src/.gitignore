@@ -16,4 +16,4 @@ yarn-error.log
 /node_modules/
 .env.*
 *.log
-/docker/mysql/data/*
+/docker/mysql/data/
