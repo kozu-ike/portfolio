@@ -19,7 +19,9 @@ docker-compose up -d --build
 
 **Laravel環境構築**
 3. `docker-compose exec php bash`
+
 4. `composer install`
+
 5. 「.env.example」ファイルを 「.env」ファイルに命名を変更。
     または、新しく.envファイルを作成
 ``` bash
